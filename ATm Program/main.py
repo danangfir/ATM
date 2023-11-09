@@ -1,6 +1,5 @@
 # Program ATM Sederhana
 # By The BujangZ(Danangz-Noellendy-Irfanzz)😎🥶 
-
 # Variabel global untuk menyimpan saldo
 saldo = 1000000  # Saldo awal
 
